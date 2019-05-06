@@ -79,7 +79,7 @@
         <!--
             Haystack
           -->
-        <haystack.version>0.2.5</haystack.version>
+        <haystack.version>0.2.8-SNAPSHOT</haystack.version>
     </properties>
     <build>
         <plugins>
